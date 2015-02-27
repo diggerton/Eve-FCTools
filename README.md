@@ -1,4 +1,4 @@
-# Eve-FCTools
+# Eve-FCTools.XCounter
 
 Searches for default Eve Online documents directory and allows user to specify documents directory.
 Lists all channels with activity for user to select for the count watch.
